@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T07:27:30.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MyQ7vRYFHfw5NssV65oE" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-12T07:34:08.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="myxckI8O62BqYoM2WiJH" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
     <mxGraphModel dx="1025" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -583,7 +583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JzsanrShOo-QOAWdzv5t" name="Logos">
-    <mxGraphModel dx="854" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1025" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
