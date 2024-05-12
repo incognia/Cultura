@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T03:24:00.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.0" etag="FycaIsAa3Y804BRUOQj5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T03:27:52.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8oJuzSydG5ABwiMlrMxZ" version="24.4.0" type="github">
   <diagram name="Página-1" id="kXPVxVcuo8y7aw5kV4ye">
-    <mxGraphModel>
+    <mxGraphModel dx="1039" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-1" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="204" height="670" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
