@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T04:25:06.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="APEQmqDKj8zv-yDUI9HT" version="24.4.0" type="github">
-  <diagram name="Página-1" id="kXPVxVcuo8y7aw5kV4ye">
-    <mxGraphModel dx="1299" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-05-12T04:44:57.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="T5D9UvGGt3pBsUUFoZQf" version="24.4.0" type="github">
+  <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
+    <mxGraphModel dx="1039" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -358,26 +358,11 @@
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-275" value="Tor 0" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" vertex="1" parent="1">
           <mxGeometry x="880" y="40" width="180" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-276" value="42" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="21" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-277" value="40" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="51" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-280" value="38" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="81" width="162" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-322" value="ESXi 5" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r640;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
           <mxGeometry x="9" y="96" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-321" value="ESXi 4" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r640;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
           <mxGeometry x="9" y="126" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-282" value="34" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="141" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-284" value="36" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="111" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-324" value="ESXi 3" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r640;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
           <mxGeometry x="9" y="156" width="162" height="15" as="geometry" />
@@ -394,26 +379,8 @@
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-332" value="ESXi 6" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r640;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
           <mxGeometry x="9" y="276" width="162" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-287" value="24" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="291" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-289" value="26" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="261" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-291" value="28" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="231" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-293" value="30" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="201" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-295" value="32" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="171" width="162" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-334" value="Proxmox 01" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r640;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
           <mxGeometry x="9" y="306" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-296" value="22" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="321" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-338" value="Dell R640" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r640;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
           <mxGeometry x="9" y="366" width="162" height="15" as="geometry" />
@@ -424,23 +391,8 @@
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-341" value="EMC VNX" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_2u;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
           <mxGeometry x="9" y="411" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-298" value="14" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="441" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-302" value="18" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="381" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-304" value="20" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="351" width="162" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-305" value="KVM" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
           <mxGeometry x="9" y="336" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-306" value="12" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="471" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-308" value="10" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
-          <mxGeometry x="9" y="501" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-310" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
           <mxGeometry x="9" y="531" width="162" height="30" as="geometry" />
@@ -453,6 +405,9 @@
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-313" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
           <mxGeometry x="9" y="622" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-352" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SC Site | Piso 2&lt;/h1&gt;&lt;p&gt;Racks de servidores&lt;/p&gt;&lt;p&gt;Fecha: 13 de mayo de 2024&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Autor: Rodrigo Ernesto Álvarez Aguilera&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=none;align=right;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="760" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
