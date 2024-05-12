@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T05:11:59.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mMpC0iPtllpUAXoPqn9t" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T05:24:45.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="hrfesaJd66b9YK3L9zXt" version="24.4.0" type="github" pages="2">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
     <mxGraphModel dx="1031" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -409,6 +409,14 @@
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-352" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SC Site - Piso 2&lt;/h1&gt;&lt;p&gt;Racks de servidores&lt;/p&gt;&lt;p&gt;Fecha: 13 de mayo de 2024&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Autor: Rodrigo Ernesto Álvarez Aguilera&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=none;align=right;" vertex="1" parent="1">
           <mxGeometry x="1320" y="760" width="240" height="120" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TtPialRp3cqjiCQgeKU1" name="Página-2">
+    <mxGraphModel dx="1031" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
