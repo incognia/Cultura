@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T06:49:27.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WhL-BMnwBCKYlHq0GbOx" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-13T07:19:07.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="nD5OJt_1h_LXZNK3CVr4" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
     <mxGraphModel dx="1477" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -583,7 +583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JzsanrShOo-QOAWdzv5t" name="Logos">
-    <mxGraphModel dx="2283" dy="1159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1880" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -837,7 +837,7 @@
           <mxGeometry x="1780" y="180" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="180" width="128" height="128" as="geometry" />
+          <mxGeometry x="1620" y="920" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-97" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1780" y="340" width="128" height="128" as="geometry" />
@@ -845,10 +845,10 @@
         <mxCell id="Epwk43n0h8cKO-tFKE8g-98" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg;" vertex="1" parent="1">
           <mxGeometry x="1620" y="340" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="Epwk43n0h8cKO-tFKE8g-99" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg;rotation=0;" vertex="1" parent="1">
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-99" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1780" y="500" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="Epwk43n0h8cKO-tFKE8g-100" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg;" vertex="1" parent="1">
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-100" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg;" vertex="1" parent="1">
           <mxGeometry x="1620" y="500" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-101" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg;rotation=0;" vertex="1" parent="1">
@@ -888,16 +888,16 @@
           <mxGeometry x="1940" y="660" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-113" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="20" width="128" height="128" as="geometry" />
+          <mxGeometry x="2580" y="920" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-114" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="20" width="128" height="128" as="geometry" />
+          <mxGeometry x="1780" y="920" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-115" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="2420" y="180" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-116" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="180" width="128" height="128" as="geometry" />
+          <mxGeometry x="1940" y="920" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-117" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="2420" y="340" width="128" height="128" as="geometry" />
@@ -918,10 +918,10 @@
           <mxGeometry x="2260" y="660" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-123" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2740" y="20" width="128" height="128" as="geometry" />
+          <mxGeometry x="2740" y="920" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-124" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="20" width="128" height="128" as="geometry" />
+          <mxGeometry x="2420" y="920" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-125" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-original.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="2740" y="180" width="128" height="128" as="geometry" />
@@ -975,7 +975,52 @@
           <mxGeometry x="3060" y="500" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-142" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="3060" y="660" width="128" height="128" as="geometry" />
+          <mxGeometry x="2900" y="920" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-143" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="920" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-144" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="180" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-146" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="180" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-147" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1080" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-148" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1080" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-149" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1080" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-150" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="1080" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-151" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1080" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-152" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="1080" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-153" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="1080" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-154" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="1080" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-155" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="920" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-156" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original-wordmark.svg;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="1080" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-158" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="920" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-159" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="1080" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
