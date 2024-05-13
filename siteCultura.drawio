@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T06:45:24.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_qmslJYY0xshNFNZykxG" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-13T06:49:27.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WhL-BMnwBCKYlHq0GbOx" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
     <mxGraphModel dx="1477" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -583,7 +583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JzsanrShOo-QOAWdzv5t" name="Logos">
-    <mxGraphModel dx="1598" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2283" dy="1159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -973,6 +973,9 @@
         </mxCell>
         <mxCell id="Epwk43n0h8cKO-tFKE8g-141" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="3060" y="500" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Epwk43n0h8cKO-tFKE8g-142" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="660" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
