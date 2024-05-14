@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T01:49:23.992Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="b58mWlQADhFykG53kHNy" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T02:01:04.113Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="h-uStwfB8j2E55scZLJJ" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
-    <mxGraphModel dx="1230" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,17 +280,11 @@
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-242" value="33" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
           <mxGeometry x="9" y="156" width="162" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-37" value="HPE Proliant DL360 Gen10" style="shape=mxgraph.rack.hp.hp_proliant_dl360p_g8;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+          <mxGeometry x="9" y="261" width="162" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="EYQvZe1bn8aE0nwJo5ew-1" value="Lenovo KVM" style="shape=mxgraph.rack.ibm.ibm_1u_flat_panel_console_kit;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="291" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-247" value="23" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="306" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-249" value="25" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="276" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-250" value="26" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="261" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-251" value="27" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
           <mxGeometry x="9" y="246" width="162" height="15" as="geometry" />
@@ -310,65 +304,32 @@
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-256" value="32" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
           <mxGeometry x="9" y="171" width="162" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-257" value="22" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-36" value="" style="shape=mxgraph.rack.ibm.ibm_x3550_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="321" width="162" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-258" value="13" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="456" width="162" height="15" as="geometry" />
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-35" value="" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+          <mxGeometry x="9" y="336" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-259" value="14" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="441" width="162" height="15" as="geometry" />
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-31" value="" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+          <mxGeometry x="9" y="396" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-260" value="15" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="426" width="162" height="15" as="geometry" />
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-32" value="" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+          <mxGeometry x="9" y="426" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-261" value="16" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="411" width="162" height="15" as="geometry" />
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-33" value="" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+          <mxGeometry x="9" y="456" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-262" value="17" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="396" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-263" value="18" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="381" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-264" value="19" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="366" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-265" value="20" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="351" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-266" value="21" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="336" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-267" value="12" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="471" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-268" value="11" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="486" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-269" value="10" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="501" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-270" value="09" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-30" value="" style="shape=mxgraph.rack.ibm.ibm_x3550_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="516" width="162" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="xVEirjq84blxvwrU2YUP-2" value="08" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-29" value="" style="shape=mxgraph.rack.ibm.ibm_x3550_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="531" width="162" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="xVEirjq84blxvwrU2YUP-5" value="05" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="576" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="xVEirjq84blxvwrU2YUP-4" value="06" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="561" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="xVEirjq84blxvwrU2YUP-3" value="07" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-28" value="" style="shape=mxgraph.rack.ibm.ibm_x3550_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="546" width="162" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="xVEirjq84blxvwrU2YUP-11" value="04" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="591" width="162" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="uiRfMeoX_3F4H8G9Y6iX-7" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.power_strip;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="606" width="162" height="15" as="geometry" />
+          <mxGeometry x="9" y="591" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-274" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
           <mxGeometry x="9" y="621" width="162" height="30" as="geometry" />
@@ -444,9 +405,6 @@
         </mxCell>
         <mxCell id="xVEirjq84blxvwrU2YUP-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/4/4c/Secretar%C3%ADa_de_Cultura_logotipo.svg;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1360" y="760" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EYQvZe1bn8aE0nwJo5ew-18" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.r0x44_aruba_6400_48p_10g_25g_sfp28_module;" vertex="1" parent="1">
-          <mxGeometry x="720" y="420" width="142" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
