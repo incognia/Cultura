@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T02:01:04.113Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="h-uStwfB8j2E55scZLJJ" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T02:15:18.568Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3LAapvzbOsDQqpXxVuYO" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
-    <mxGraphModel dx="1443" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="811" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,19 +304,19 @@
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-256" value="32" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
           <mxGeometry x="9" y="171" width="162" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="EYQvZe1bn8aE0nwJo5ew-36" value="" style="shape=mxgraph.rack.ibm.ibm_x3550_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-38" value="HPE Proliant DL360 Gen7" style="shape=mxgraph.rack.hp.hp_proliant_dl360p_g8;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="321" width="162" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="EYQvZe1bn8aE0nwJo5ew-35" value="" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-35" value="System x3650 M5" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="336" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EYQvZe1bn8aE0nwJo5ew-31" value="" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;System x3650 M5&lt;/span&gt;" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="396" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EYQvZe1bn8aE0nwJo5ew-32" value="" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-32" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;System x3650 M5&lt;/span&gt;" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="426" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EYQvZe1bn8aE0nwJo5ew-33" value="" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;System x3650 M5&lt;/span&gt;" style="shape=mxgraph.rack.ibm.ibm_x3650_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="456" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EYQvZe1bn8aE0nwJo5ew-30" value="" style="shape=mxgraph.rack.ibm.ibm_x3550_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
