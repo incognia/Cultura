@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T00:18:33.333Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NZzhpMfI9Y4nOUHSGGeb" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T00:22:26.569Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="t-DM1E0cnXlPPE2blhP2" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
-    <mxGraphModel dx="1230" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="874" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,21 @@
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-194" value="09" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-124" vertex="1">
           <mxGeometry x="9" y="516" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-9" value="05" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-124">
+          <mxGeometry x="9" y="576" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-8" value="06" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-124">
+          <mxGeometry x="9" y="561" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-7" value="07" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-124">
+          <mxGeometry x="9" y="546" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-6" value="08" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-124">
+          <mxGeometry x="9" y="531" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-10" value="04" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-124">
+          <mxGeometry x="9" y="591" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="uiRfMeoX_3F4H8G9Y6iX-6" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.power_strip;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-124">
           <mxGeometry x="9" y="606" width="162" height="15" as="geometry" />
@@ -339,6 +354,21 @@
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-270" value="09" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
           <mxGeometry x="9" y="516" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-2" value="08" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+          <mxGeometry x="9" y="531" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-5" value="05" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+          <mxGeometry x="9" y="576" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-4" value="06" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+          <mxGeometry x="9" y="561" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-3" value="07" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+          <mxGeometry x="9" y="546" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-11" value="04" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
+          <mxGeometry x="9" y="591" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="uiRfMeoX_3F4H8G9Y6iX-7" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.power_strip;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="606" width="162" height="15" as="geometry" />
