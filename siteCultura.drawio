@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T00:22:26.569Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="t-DM1E0cnXlPPE2blhP2" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T01:23:58.091Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="D4ANb2pltlwKh_3V7Zo7" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
-    <mxGraphModel dx="874" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="684" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,6 +378,12 @@
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-275" value="Tor 0" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" parent="1" vertex="1">
           <mxGeometry x="1160" y="40" width="180" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-15" value="Brocade VDX 6740 48P" style="shape=mxgraph.rack.cisco.cisco_nexus_3016_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
+          <mxGeometry x="9" y="36" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xVEirjq84blxvwrU2YUP-14" value="Brocade VDX 6740 48P" style="shape=mxgraph.rack.cisco.cisco_nexus_3016_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-275">
+          <mxGeometry x="9" y="51" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-322" value="25NZ1G3 -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ESXi 5&lt;/span&gt;" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r640;" parent="F5mJhJkMsAJUhBa3Pyiu-275" vertex="1">
           <mxGeometry x="9" y="96" width="162" height="15" as="geometry" />
