@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T02:57:04.012Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Hljf__npCzTHc-4TV-0h" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T02:59:38.694Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Fem8-o74rFJ2dz3KUSnl" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
     <mxGraphModel dx="1420" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -357,9 +357,6 @@
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-338" value="25T02G3 - Dell R640" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r640;" parent="F5mJhJkMsAJUhBa3Pyiu-275" vertex="1">
           <mxGeometry x="9" y="366" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ih9grunh9AZzAcqhtVqC-18" value="18" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-275" vertex="1">
-          <mxGeometry x="9" y="381" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-340" value="25SX1G3 - Dell R640" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r640;" parent="F5mJhJkMsAJUhBa3Pyiu-275" vertex="1">
           <mxGeometry x="9" y="396" width="162" height="15" as="geometry" />
