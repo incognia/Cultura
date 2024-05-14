@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T02:54:49.962Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="A0ImGqFs5WpblLfHNb38" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T02:57:04.012Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Hljf__npCzTHc-4TV-0h" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
-    <mxGraphModel dx="1183" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,9 +264,6 @@
         </mxCell>
         <mxCell id="EYQvZe1bn8aE0nwJo5ew-7" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.1u_rack_server;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="66" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-241" value="38" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-236" vertex="1">
-          <mxGeometry x="9" y="81" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="EYQvZe1bn8aE0nwJo5ew-8" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.1u_rack_server;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="96" width="162" height="15" as="geometry" />
