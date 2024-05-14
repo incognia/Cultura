@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T02:47:55.085Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KiSy8iV82_NcykOt_vKC" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T02:49:08.349Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ed46VdKyJS2HKIwpS5Ar" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
-    <mxGraphModel dx="2367" dy="1378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1671" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EYQvZe1bn8aE0nwJo5ew-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1340" y="760" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-124" value="Tor 3" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" parent="1" vertex="1">
