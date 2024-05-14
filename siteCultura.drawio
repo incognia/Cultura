@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T02:36:24.825Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xeT9Z4dgYzJBg41gnOIn" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T02:47:55.085Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KiSy8iV82_NcykOt_vKC" version="24.4.0" type="github" pages="3">
   <diagram name="Servidores" id="kXPVxVcuo8y7aw5kV4ye">
-    <mxGraphModel dx="1352" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2367" dy="1378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EYQvZe1bn8aE0nwJo5ew-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="760" width="240" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-124" value="Tor 3" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="180" height="680" as="geometry" />
+          <mxGeometry x="40" y="40" width="180" height="680" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-125" value="42" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="F5mJhJkMsAJUhBa3Pyiu-124" vertex="1">
           <mxGeometry x="9" y="21" width="162" height="15" as="geometry" />
@@ -251,7 +254,7 @@
           <mxGeometry x="9" y="591" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-236" value="Tor 1" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" parent="1" vertex="1">
-          <mxGeometry x="800" y="40" width="180" height="680" as="geometry" />
+          <mxGeometry x="840" y="40" width="180" height="680" as="geometry" />
         </mxCell>
         <mxCell id="EYQvZe1bn8aE0nwJo5ew-4" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.power_strip;" vertex="1" parent="F5mJhJkMsAJUhBa3Pyiu-236">
           <mxGeometry x="9" y="36" width="162" height="15" as="geometry" />
@@ -323,7 +326,7 @@
           <mxGeometry x="9" y="621" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F5mJhJkMsAJUhBa3Pyiu-275" value="Tor 0" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="40" width="180" height="680" as="geometry" />
+          <mxGeometry x="1240" y="40" width="180" height="680" as="geometry" />
         </mxCell>
         <mxCell id="xVEirjq84blxvwrU2YUP-15" value="Brocade VDX 6740 48P" style="shape=mxgraph.rack.cisco.cisco_nexus_3016_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="F5mJhJkMsAJUhBa3Pyiu-275" vertex="1">
           <mxGeometry x="9" y="36" width="162" height="15" as="geometry" />
@@ -388,11 +391,11 @@
         <mxCell id="ih9grunh9AZzAcqhtVqC-13" value="&lt;div&gt;APC UPS&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;SRT5KXLT&lt;/span&gt;&lt;/div&gt;" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="F5mJhJkMsAJUhBa3Pyiu-275" vertex="1">
           <mxGeometry x="9" y="606" width="162" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-352" value="&lt;h2 style=&quot;margin-top: 0px;&quot;&gt;Site - Piso 2&lt;/h2&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Fecha: 13 de mayo de 2024&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Autor: Rodrigo Ernesto Álvarez Aguilera&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=none;align=right;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="800" width="240" height="80" as="geometry" />
+        <mxCell id="F5mJhJkMsAJUhBa3Pyiu-352" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;Site - Piso 2&lt;/h3&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Fecha: 13 de mayo de 2024&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Autor: Rodrigo Ernesto Álvarez Aguilera&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="810" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xVEirjq84blxvwrU2YUP-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/4/4c/Secretar%C3%ADa_de_Cultura_logotipo.svg;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="760" width="200" height="40" as="geometry" />
+          <mxGeometry x="1350" y="770" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
