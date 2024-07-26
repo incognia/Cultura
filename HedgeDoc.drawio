@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="Página-1" id="A5Ahf2CoRVOPJ03jojGC">
-    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="478" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-1" value="Host OS - Debian 12.6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-2" value="D&lt;span style=&quot;background-color: initial;&quot;&gt;ocker Engine 27.1.0 - Docker Compose 2.29.0&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="110" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="110" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="110" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-6" value="Node 20.7.0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-7" value="HedgeDoc 1.9.9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
