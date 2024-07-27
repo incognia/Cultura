@@ -1,52 +1,52 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="Página-1" id="A5Ahf2CoRVOPJ03jojGC">
-    <mxGraphModel dx="676" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="440" pageHeight="280" math="0" shadow="0">
+    <mxGraphModel dx="551" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="440" pageHeight="280" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-1" value="Host OS - Debian 12.6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-1" value="Host OS - Debian 12.6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="30" y="230" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-2" value="D&lt;span style=&quot;background-color: initial;&quot;&gt;ocker Engine 27.1.0 - Docker Compose 2.29.0&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-2" value="D&lt;span style=&quot;background-color: initial;&quot;&gt;ocker Engine 27.1.0 - Docker Compose 2.29.0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="30" y="190" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="30" y="20" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="160" y="20" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;sketch=1;curveFitting=1;jiggle=2;glass=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="20" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-6" value="Node 20.7.0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-6" value="Node 20.7.0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-7" value="HedgeDoc 1.9.9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-7" value="HedgeDoc 1.9.9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-9" value="Debian 11.7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-9" value="Debian 11.7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-10" value="Alpine 3.14.2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-10" value="Alpine 3.14.2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="170" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-11" value="PostgreSQL 13.4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-11" value="PostgreSQL 13.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="170" y="100" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-12" value="Niginx 1.27.0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-12" value="Niginx 1.27.0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="100" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-13" value="Debian 12.6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-13" value="Debian 12.6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-14" value="App" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-14" value="App" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="60" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-15" value="Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-15" value="Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="190" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="La_c6Itd9mwxb3O8G_VO-16" value="Proxy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="La_c6Itd9mwxb3O8G_VO-16" value="Proxy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="320" y="30" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
