@@ -55,6 +55,12 @@
             <mxPoint x="435" y="215.38461538461536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="riIj64U1jyTanFA5kSES-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="riIj64U1jyTanFA5kSES-3" target="riIj64U1jyTanFA5kSES-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="240" as="sourcePoint" />
+            <mxPoint x="300" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
