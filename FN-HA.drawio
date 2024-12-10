@@ -220,6 +220,108 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-49" value="VNX 5100" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="1080" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-2" value="datastore_RAID&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-49">
+          <mxGeometry x="40" y="60" width="1000" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-1" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="50" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-3" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="114" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-4" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="179" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-5" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="243" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-6" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="307" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-7" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="371" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-8" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="436" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-9" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="500" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-10" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="564" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-11" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="629" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-12" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="693" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-13" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="757" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-14" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="821" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-15" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="886" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-16" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
+          <mxGeometry x="950" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-17" value="vnx_OS" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-49">
+          <mxGeometry x="40" y="200" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-18" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-17">
+          <mxGeometry x="50" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-19" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-17">
+          <mxGeometry x="110" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-20" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-17">
+          <mxGeometry x="170" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-21" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-17">
+          <mxGeometry x="230" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-33" value="smb_RAID" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-49">
+          <mxGeometry x="340" y="200" width="700" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-34" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="50" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-35" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="110" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-36" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="170" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-37" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="230" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-38" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="290" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-39" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="350" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-40" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="410" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-41" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="470" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-42" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="530" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-43" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="590" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-44" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-33">
+          <mxGeometry x="650" y="20" width="35" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
