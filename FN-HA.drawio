@@ -221,7 +221,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="m8HTBKaTrHXvjGjiuMdx-49" value="VNX 5100" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="1080" height="360" as="geometry" />
+          <mxGeometry x="40" y="40" width="1080" height="360" as="geometry">
+            <mxRectangle x="40" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m8HTBKaTrHXvjGjiuMdx-2" value="datastore_RAID" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-49">
           <mxGeometry x="40" y="60" width="1000" height="120" as="geometry" />
@@ -271,7 +273,7 @@
         <mxCell id="m8HTBKaTrHXvjGjiuMdx-16" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-2">
           <mxGeometry x="950" y="20" width="35" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m8HTBKaTrHXvjGjiuMdx-17" value="vnx_OS" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-49">
+        <mxCell id="m8HTBKaTrHXvjGjiuMdx-17" value="Vault Drives" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-49">
           <mxGeometry x="40" y="200" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="m8HTBKaTrHXvjGjiuMdx-18" value="SAS 10K&lt;br&gt;600 GB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="m8HTBKaTrHXvjGjiuMdx-17">
